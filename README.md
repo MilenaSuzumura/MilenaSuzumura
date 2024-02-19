@@ -1,1 +1,1 @@
-<img src="/image/a.png" alt="Minha Figura" width="30" height="30" />
+<img src="/image/a.png" alt="Minha Figura" width="40" height="40" />
