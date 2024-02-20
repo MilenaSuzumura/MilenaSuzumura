@@ -19,18 +19,18 @@
 </div>
 <br>
 <div id="redes-sociais" align="center">
-  <h2> Onde me encontrar </h2>
+  <h2> 🏃‍♀️ Onde me encontrar 🏃‍♀️ </h2>
   <a href="https://www.linkedin.com/in/milena-suzumura-564149232" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/milenasuzumura/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:milena.suzumura11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-006bed?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.workana.com/freelancer/608cc49fdb6b0748c6d5e4a5eacf7e6c" target="_blank">
     <img src="https://img.shields.io/badge/-Workana-264de4?style=for-the-badge&logo=workana&logoColor=white" target="_blank">
+  </a>
+    <a href="mailto:milena.suzumura11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <!-- https://portal.gupy.io/ -->
 </div>
