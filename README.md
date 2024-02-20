@@ -29,12 +29,70 @@
   <a href="https://www.workana.com/freelancer/608cc49fdb6b0748c6d5e4a5eacf7e6c" target="_blank">
     <img src="https://img.shields.io/badge/-Workana-264de4?style=for-the-badge&logo=workana&logoColor=white" target="_blank">
   </a>
-    <a href="mailto:milena.suzumura11@gmail.com" target="_blank">
+  <a href="mailto:milena.suzumura11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <!-- https://portal.gupy.io/ -->
 </div>
 
+<!-- <div id="ferramentas-e-tecnologias">
+  <h2>Ferramentas e tecnologias que utilizo:</h2>
+
+  <span id="linguagem-de-programacao">
+      <h4><strong>Linguagens de programação:</strong></h4>
+        <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330" target="_blank">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+    </span>
+
+  <br>
+
+  <span id="marcacao-estilizacao">
+      <h4><strong>Linguagem de marcação e estilização:</strong></h4>
+      <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+  </span>
+
+  <br>
+
+  <span id="banco-de-dados">
+    <h4><strong>Banco de dados:</strong></h4>
+    <img src="https://img.shields.io/badge/-Mysql-00758f?style=for-the-badge&logo=Mysql&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
+  </span>
+
+  <br>
+
+  <span id="frameworks">
+    <h4><strong>Frameworks:</strong></h4>
+    <img src="https://img.shields.io/badge/-React%20JS-7cc5d9?style=for-the-badge&logo=react&logoColor=1c2c4c" target="_blank">
+    <img src="https://img.shields.io/badge/-Express%20JS-303030?style=for-the-badge&logo=express&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Jest-C63D14?style=for-the-badge&logo=jest&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Chai-9c5239?style=for-the-badge&logo=Chai&logoColor=white" target="_blank">
+  </span>
+
+  <br>
+
+  <span id="tecnologias">
+    <h4><strong>Tecnologias:</strong></h4>
+    <img src="https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Sinon.Js-68A063?style=for-the-badge&logo=Sinon.Js&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Testing%20Library-red?style=for-the-badge&logo=Testing%20Library&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-ESlint-blueviolet?style=for-the-badge&logo=ESlint&logoColor=white" target="_blank">
+  </span>
+
+  <br>
+
+  <span id="outros">
+    <h4><strong>Outros:</strong></h4>
+    <img src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Linux%20Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Linux%20Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" target="_blank">
+  </span>
+</div> -->
 
 ### ⚙️ GitHub Analytics
 
@@ -65,9 +123,8 @@
   </tr>
 </table>
 
---- 
-
 <div id="trofeu-perfil-github" align="center">
   <h2> 🏆 Troféu de perfil do GitHub 🏆 </h2>
   <img align="center" width="800" src="https://github-profile-trophy.vercel.app/?username=MilenaSuzumura&column=8&theme=dracula&no-frame=true&no-bg=true" />
 </div>
+https://github-readme-streak-stats.herokuapp.com/?user=MilenaSuzumura&theme=dracula&hide_border=false
