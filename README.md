@@ -20,7 +20,19 @@
   ➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 </div>
 
-<br>
+<div id="redes-sociais">
+  <h2 align="center"> Onde me encontrar </h2>
+  <a href="https://www.linkedin.com/in/milena-suzumura-564149232" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/milenasuzumura/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:milena.suzumura11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-006bed?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
 ### ⚙️ GitHub Analytics
 
