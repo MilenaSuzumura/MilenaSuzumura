@@ -4,12 +4,16 @@
 
 </div>
 
-<br>
-
 <img src="/image/7832580-removebg-preview.png" alt="image-computer" min-width="400px" max-width="400px" width="400px" align="left">
 
-> ## 🎎 Sobre mim 🎎
-> 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack
+<br>
+
+<div  align="center">
+
+## 🎎 Sobre mim 🎎
+
+</div>
+👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack
 
 <!--     <li>Descendentes de japonês. Para ser mais exata, sansei(netos de japoneses)</li>
     <li>Mãe de 2 cachorros e 1 gato, e quase segunda mãe da minha irmã mais nova de 9 anos</li>
