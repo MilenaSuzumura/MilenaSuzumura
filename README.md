@@ -34,6 +34,7 @@
   <a href="https://www.workana.com/freelancer/608cc49fdb6b0748c6d5e4a5eacf7e6c" target="_blank">
     <img src="https://img.shields.io/badge/-Workana-264de4?style=for-the-badge&logo=workana&logoColor=white" target="_blank">
   </a>
+  <!-- https://portal.gupy.io/ -->
 </div>
 
 
