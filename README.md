@@ -19,7 +19,7 @@
 
   ➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 </div>
-
+<br>
 <div id="redes-sociais" align="center">
   <h2> Onde me encontrar </h2>
   <code><a href="https://www.linkedin.com/in/milena-suzumura-564149232" target="_blank">
