@@ -67,6 +67,7 @@
 
 --- 
 
-### 🏆 GitHub Profile Trophy
-
-<img align="center" width="800" src="https://github-profile-trophy.vercel.app/?username=MilenaSuzumura&column=8&theme=dracula&no-frame=true&no-bg=true" />
+<div id="trofeu-perfil-github" align="center">
+  <h2> 🏆 Troféu de perfil do GitHub 🏆 </h2>
+  <img align="center" width="800" src="https://github-profile-trophy.vercel.app/?username=MilenaSuzumura&column=8&theme=dracula&no-frame=true&no-bg=true" />
+</div>
