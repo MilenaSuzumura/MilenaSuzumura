@@ -4,7 +4,9 @@
 
 </div>
 
-<img src="/image/7832580-removebg-preview.png" alt="image-computer" min-width="400px" max-width="400px" width="400px" align="right">
+<br>
+
+<img src="/image/7832580-removebg-preview.png" alt="image-computer" min-width="400px" max-width="400px" width="400px" align="left">
 
 > ## 🎎 Sobre mim 🎎
 > 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack
