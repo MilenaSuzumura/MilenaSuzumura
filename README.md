@@ -17,8 +17,10 @@
 
   ➥ 🧠 Amo aprender coisas novas;
 
-  ➥ 📖 Atualmente estou aprendendo Java e Marketing Digital.
+  ➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 </div>
+
+<br>
 
 ### ⚙️ GitHub Analytics
 
