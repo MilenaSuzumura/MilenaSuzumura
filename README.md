@@ -15,8 +15,11 @@
 </div>
 
 ➥ 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack;
+
 ➥ 🏯 Descendentes de japonês;
+
 ➥ 🧠 Amo aprender coisas novas;
+
 ➥ 📖 Atualmente estou aprendendo Java e Marketing Digital.
 
 ### ⚙️ GitHub Analytics
