@@ -33,11 +33,17 @@
   </a>
   <!-- https://portal.gupy.io/ -->
 </div>
+
 <div id="ferramentas-e-tecnologias">
+  <h2>Ferramentas e tecnologias que utilizo:</h2>
+  <table align="center">
+    <tbody>
+    </tbody>
+  </table>
 </div>
 
 <!-- 
-  <h2>Ferramentas e tecnologias que utilizo:</h2>
+  
 
   <span id="linguagem-de-programacao">
       <h4><strong>Linguagens de programação:</strong></h4>
