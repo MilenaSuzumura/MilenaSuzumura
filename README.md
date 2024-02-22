@@ -38,6 +38,9 @@
   <h2>Ferramentas e tecnologias que utilizo:</h2>
   <table align="center">
     <tbody>
+      <tr>
+        <td align="center"><strong>Linguagens de programação:</strong></td>
+      </tr>
     </tbody>
   </table>
 </div>
