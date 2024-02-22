@@ -39,12 +39,18 @@
   <table align="center">
     <tbody>
       <tr id="titulo-linguagens-dev">
-        <td align="center"><h3><strong>Linguagens de programação:</strong></h3></td>
+        <td colspan="5"  align="center"><h3>Linguagens de programação:</h3></td>
       </tr>
       <tr id="minhas-linguagens-dev">
+        <td align="center">
         <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330" target="_blank">
+        </td>
+          <td align="center">
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+            </td>
+            <td align="center">
         <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+            </td>
       </tr>
     </tbody>
   </table>
