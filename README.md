@@ -17,7 +17,6 @@
 
   ➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 </div>
-<br>
 <div id="redes-sociais" align="center">
   <h2><img src="/image/mokke.gif" alt="moke-dancando"> Onde me encontrar <img src="/image/mokke.gif" alt="moke-dancando"></h2>
   <a href="https://www.linkedin.com/in/milena-suzumura-564149232" target="_blank">
@@ -93,8 +92,6 @@
     <img src="https://img.shields.io/badge/-Linux%20Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" target="_blank">
   </span>
 </div> -->
-
-![ImageTitle](/image/mokke.gif) 
 
 ### ⚙️ GitHub Analytics
 
