@@ -33,8 +33,10 @@
   </a>
   <!-- https://portal.gupy.io/ -->
 </div>
+<div id="ferramentas-e-tecnologias">
+</div>
 
-<!-- <div id="ferramentas-e-tecnologias">
+<!-- 
   <h2>Ferramentas e tecnologias que utilizo:</h2>
 
   <span id="linguagem-de-programacao">
@@ -91,7 +93,7 @@
     <img src="https://img.shields.io/badge/-Linux%20Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Linux%20Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" target="_blank">
   </span>
-</div> -->
+ -->
 
 ### ⚙️ GitHub Analytics
 
@@ -126,4 +128,3 @@
   <h2> 🏆 Troféu de perfil do GitHub 🏆 </h2>
   <img align="center" width="800" src="https://github-profile-trophy.vercel.app/?username=MilenaSuzumura&column=8&theme=dracula&no-frame=true&no-bg=true" />
 </div>
-https://github-readme-streak-stats.herokuapp.com/?user=MilenaSuzumura&theme=dracula&hide_border=false
