@@ -1,22 +1,27 @@
-<div id="apresentacao" align="center">
+<header id="apresentacao" align="center">
 
   # ![ImageTitle](/image/luck-monster.png) Prazer! Eu sou a Milena Suzumura! ![ImageTitle](/image/luck-monster.png)
 
-</div>
+</header>
 
 <div id="sobre-mim">
-  <img src="/image/7832580-removebg-preview.png" alt="image-computer" min-width="400px" max-width="400px" width="400px" align="left">
+    <div>
+        <img src="/image/7832580-removebg-preview.png" alt="image-computer" min-width="400px" max-width="400px" width="400px" align="left">
+    </div>
+    <div>
+    <h2 align="center"> 🎎 Sobre mim 🎎 </h2>
 
-  <h2 align="center"> 🎎 Sobre mim 🎎 </h2>
+➥ 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack;
 
-  ➥ 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack;
+➥ 🏯 Descendentes de japonês;
 
-  ➥ 🏯 Descendentes de japonês;
+➥ 🧠 Amo aprender coisas novas;
 
-  ➥ 🧠 Amo aprender coisas novas;
+➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 
-  ➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 </div>
+  
+  </div>
 <div id="redes-sociais" align="center">
   <h2><img src="/image/mokke.gif" alt="moke-dancando"> Onde me encontrar <img src="/image/mokke.gif" alt="moke-dancando"></h2>
   <a href="https://www.linkedin.com/in/milena-suzumura-564149232" target="_blank">
