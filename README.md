@@ -36,7 +36,8 @@
     <img src="https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <!-- https://portal.gupy.io/ -->
-</div><br><br>
+</div>
+<br>
 
 <div id="ferramentas-e-tecnologias">
   <h2 align="center">Ferramentas e tecnologias que utilizo:</h2>
