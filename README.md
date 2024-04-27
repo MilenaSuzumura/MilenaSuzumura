@@ -6,10 +6,10 @@
 
 <div id="sobre-mim">
     <div>
-        <img src="/image/7832580-removebg-preview.png" alt="image-computer" min-width="400px" max-width="400px" width="400px" align="left">
+        <img src="/image/7832580-removebg-preview.png" alt="image-computer" width="350px" align="left">
     </div>
     <div>
-    <h2 align="center"> 🎎 Sobre mim 🎎 </h2>
+    <h3 align="center"> 🎎 Sobre mim 🎎 </h3>
 
 ➥ 👩‍💻 Sou formada em Análise e Desenvolvimento de Sistemas e em FullStack;
 
@@ -20,10 +20,9 @@
 ➥ 📖 Atualmente estou aprendendo Java, Marketing Digital, Japonês e Inglês.
 
 </div>
-  
   </div>
 <div id="redes-sociais" align="center">
-  <h2><img src="/image/mokke.gif" alt="moke-dancando"> Onde me encontrar <img src="/image/mokke.gif" alt="moke-dancando"></h2>
+  <h3><img src="/image/mokke.gif" alt="moke-dancando"> Onde me encontrar <img src="/image/mokke.gif" alt="moke-dancando"></h3>
   <a href="https://www.linkedin.com/in/milena-suzumura-564149232" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
@@ -37,90 +36,69 @@
     <img src="https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <!-- https://portal.gupy.io/ -->
-</div>
+</div><br><br>
 
 <div id="ferramentas-e-tecnologias">
-  <h2>Ferramentas e tecnologias que utilizo:</h2>
-  <table align="center">
-    <tbody>
-      <tr id="titulo-linguagens-dev">
-        <td colspan="5"  align="center"><h3>Linguagens de programação:</h3></td>
-      </tr>
-      <tr id="minhas-linguagens-dev">
-        <td align="center">
-        <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330" target="_blank">
-        </td>
-          <td align="center">
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
-            </td>
-            <td align="center">
-        <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-            </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+  <h2 align="center">Ferramentas e tecnologias que utilizo:</h2>
 
-<!-- 
-  
-
-  <span id="linguagem-de-programacao">
-      <h4><strong>Linguagens de programação:</strong></h4>
+  <div id="linguagem-de-programacao" align="center">
+      <h3><strong>Linguagens de programação:</strong></h3>
         <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330" target="_blank">
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
         <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-    </span>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
+    </div>
 
   <br>
-
-  <span id="marcacao-estilizacao">
-      <h4><strong>Linguagem de marcação e estilização:</strong></h4>
+  
+  <div id="marcacao-estilizacao" align="center">
+      <h3><strong>Linguagem de marcação e estilização:</strong></h3>
       <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
       <img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-  </span>
+  </div>
 
   <br>
 
-  <span id="banco-de-dados">
-    <h4><strong>Banco de dados:</strong></h4>
+  <div id="banco-de-dados" align="center">
+    <h3><strong>Banco de dados:</strong></h3>
     <img src="https://img.shields.io/badge/-Mysql-00758f?style=for-the-badge&logo=Mysql&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
-  </span>
+  </div>
 
   <br>
 
-  <span id="frameworks">
-    <h4><strong>Frameworks:</strong></h4>
+  <div id="frameworks" align="center">
+    <h3><strong>Frameworks:</strong></h3>
     <img src="https://img.shields.io/badge/-React%20JS-7cc5d9?style=for-the-badge&logo=react&logoColor=1c2c4c" target="_blank">
     <img src="https://img.shields.io/badge/-Express%20JS-303030?style=for-the-badge&logo=express&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Jest-C63D14?style=for-the-badge&logo=jest&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Chai-9c5239?style=for-the-badge&logo=Chai&logoColor=white" target="_blank">
-  </span>
+  </div>
 
   <br>
 
-  <span id="tecnologias">
-    <h4><strong>Tecnologias:</strong></h4>
+  <div id="tecnologias" align="center">
+    <h3><strong>Tecnologias:</strong></h3>
     <img src="https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Sinon.Js-68A063?style=for-the-badge&logo=Sinon.Js&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Testing%20Library-red?style=for-the-badge&logo=Testing%20Library&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-ESlint-blueviolet?style=for-the-badge&logo=ESlint&logoColor=white" target="_blank">
-  </span>
+  </div>
 
   <br>
 
-  <span id="outros">
-    <h4><strong>Outros:</strong></h4>
+  <div id="outros" align="center">
+    <h3><strong>Outros:</strong></h3>
     <img src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Linux%20Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Linux%20Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" target="_blank">
-  </span>
- -->
+  </div>
+</div>
 
-### ⚙️ GitHub Analytics
+<h2 align="center">⚙️ GitHub Analytics</h2>
 
 <table>
   <tr>
