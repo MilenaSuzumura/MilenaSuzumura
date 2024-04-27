@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/badge/-Linux%20Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" target="_blank">
   </div>
 </div>
-
+<br>
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
 <table>
