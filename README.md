@@ -1,8 +1,8 @@
-<header id="apresentacao" align="center">
+<div id="apresentacao" align="center">
 
   # ![ImageTitle](/image/luck-monster.png) Prazer! Eu sou a Milena Suzumura! ![ImageTitle](/image/luck-monster.png)
 
-</header>
+</div>
 
 <div id="sobre-mim">
     <div>
